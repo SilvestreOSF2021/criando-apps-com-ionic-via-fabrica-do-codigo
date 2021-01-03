@@ -1,5 +1,3 @@
-# Criando apps com Ionic Framework via Fábrica do Código 
-
 # [Criando apps com Ionic Framework - Guia completo 2020 *_via Fábrica do Código_*](http://www.youtube.com/watch?v=guM__mfT9og)
 
 [![Criando apps com IONIC Framework via Fábrica do Código](http://img.youtube.com/vi/guM__mfT9og/0.jpg)](http://www.youtube.com/watch?v=guM__mfT9og "Criando apps com IONIC Framework via Fábrica do Código")
@@ -26,5 +24,16 @@
 
 ## [Demais informações]
 
-#### [Documentação do Ionic](https://ionicframework.com/docs)
+## [Documentação do Ionic](https://ionicframework.com/docs)
 
+## [Instação do NodeJS, npm e Git](https://ionicframework.com/docs/intro/environment)
+
+## [Instação do Ionic](https://ionicframework.com/docs/intro/cli)
+
+## [Angular Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
+
+## [Tema Dracula para Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+
+## [Iniciando um novo app](https://ionicframework.com/docs/developing/starting)
+
+## ➡️ [Sugestão de conteúdo](https://forms.gle/Dsvwyxs31cJnC23k8)
